@@ -15,7 +15,7 @@ btnNo.addEventListener("mouseenter", function (e) {
 });
 
 btnYes.addEventListener("click", function (e) {
-  alert("I know that you will tell YES. Married now and will have children. I LOVE YOU!!! ❤️")
+  alert("I knew that you will tell me YES. Lets marrying us now and let's have children. I LOVE YOU!!!❤️")
   sectionSexMode.style.display = "block"
   const music = new Audio('./img/img_modo_hot.mp3')
   music.play()
